@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+*.iml
+.gradle
+local.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# React Native specific
+*.keystore
+.env
+.env.*
+
+# Expo (if using Expo)
+.expo/
+.expo-shared/
+
+# Others
+*.swp
+*.swo
