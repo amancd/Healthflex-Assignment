@@ -44,9 +44,7 @@ A sleek and theme-aware timer app built using **React Native** that supports mul
 git clone https://github.com/amancd/Healthflex-Assignment.git
 cd Healthflex-Assignment
 npm install
-npx react-native run-android
-# or
-npx react-native run-ios
+npx expo start
 ```
 
 ## File Structure
