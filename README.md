@@ -2,6 +2,8 @@
 
 A sleek and theme-aware timer app built using **React Native** that supports multiple timers, category grouping, bulk operations, local storage, dark mode, and history tracking with export support.
 
+Download APK - https://drive.google.com/file/d/1-bY4-nRYN5pw5UXEyPdQItvuRn_KvyyZ/view?usp=sharing
+
 
 ---
 
